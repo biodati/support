@@ -1,6 +1,6 @@
 # BioDati Support
 
-The preferred way to report issues and feature requests is inside the application via our Intercom support system.  This repository is mostly for providing a public listing of reported issues and proposed features. BioDati SaaS customers can report issues and feature requests in this repository if desired.
+The preferred way to report issues and feature requests is inside BioDati Studio via our Intercom support system.  This repository is mostly for providing a public listing of reported issues and proposed features. BioDati Studio (coming soon) and BioDati Studio Enterprise customers can report issues and feature requests in this repository if desired.
 
 To open a new support issue here, click on the Issues tab and then the New Issue button.
 
