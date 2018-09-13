@@ -17,16 +17,16 @@ During the triage, we tag the support issues per our Support Process flow.
 
 **Process related labels:**
 
--  [investigate](https://github.com/biodati/support/labels/investigate)/[implement](https://github.com/biodati/support/labels/implement): The issue has gone through BioDati’s daily internal support triage and the next action towards resolution has been identified and initiated.
+-  [investigate](https://github.com/biodati/support/labels/investigate): The issue has gone through BioDati’s daily internal support triage and the next action towards resolution has been identified and initiated.
 - [in progress](https://github.com/biodati/support/labels/in%20progress): An engineer is actively working on resolving the issue.
-- [need info from customer](https://github.com/biodati/support/labels/need%20info%20from%20customer): BioDati requires additional information regarding the issue in order to continue troubleshooting the issue. The customer who opened the issue is accountable to provide this information, to make progress towards resolution.
+- [need info](https://github.com/biodati/support/labels/needs%20info): BioDati requires additional information regarding the issue in order to continue troubleshooting the issue. The customer who opened the issue is accountable to provide this information, to make progress towards resolution.
 - [resolved](https://github.com/biodati/support/labels/resolved): The issue has been mitigated either through code changes deployed into production and/or the issue has been successfully addressed.
 - [deferred](https://github.com/biodati/support/labels/deferred): The resolution of this issue has been deferred for now and will not be actively worked on.
 
 The issue will be closed if it meets one of the following conditions:
 
 - The issue has been tagged **resolved**. Customers are welcome to re-open the issue if they feel their issues are not resolved.
-- The issue has been tagged **need info from customer** and 3 business days have passed with no response from the customer.
+- The issue has been tagged **needs info** from customer and 3 business days have passed with no response from the customer.
 - The issue has been tagged **duplicate** and has the link to the original issue being tracked.
 - The issue has been tagged **deferred**.
 
